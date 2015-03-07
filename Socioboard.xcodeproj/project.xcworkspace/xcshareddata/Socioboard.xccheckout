@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54242760-86EC-484B-9931-3B90F93F44DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Socioboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA551AB2C5EF819F91AC9C01E809EBF95CFA64CB</key>
+		<string>https://github.com/vinayakpatilec/SocioBoardFlexible.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Socioboard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA551AB2C5EF819F91AC9C01E809EBF95CFA64CB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vinayakpatilec/SocioBoardFlexible.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA551AB2C5EF819F91AC9C01E809EBF95CFA64CB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA551AB2C5EF819F91AC9C01E809EBF95CFA64CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocioBoardFlexible</string>
+		</dict>
+	</array>
+</dict>
+</plist>
